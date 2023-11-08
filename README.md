@@ -1,4 +1,4 @@
-# deploy-openstack-using-devstack
+# Deploy-openstack-using-devstack
 # Deploying-openstack
 
 #### How to Install OpenStack on Ubuntu 22.04 with DevStack
